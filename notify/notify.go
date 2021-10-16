@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"leetcodedaily/util"
+	"github.com/fghwett/leetcodedaily/util"
 )
 
 type Response struct {

@@ -1,4 +1,4 @@
-module leetcodedaily
+module github.com/fghwett/leetcodedaily
 
 go 1.16
 

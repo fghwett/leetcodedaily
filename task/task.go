@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"leetcodedaily/util"
+	"github.com/fghwett/leetcodedaily/util"
 )
 
 type Task struct {
